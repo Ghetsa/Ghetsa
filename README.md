@@ -31,7 +31,7 @@
 ## 📂 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [Mobile_Ghetsa-Ramadhani_2025](https://github.com/Ghetsa/Mobile_Ghetsa-Ramadhani_2025) | A project management app prototype built with Flutter | Dart, Flutter |
+| [PBL-AKSARA](https://github.com/Ghetsa/PBL-AKSARA) | **AKSARA (Aplikasi Kompetensi dan Sarana Apresiasi)** — Web app untuk manajemen kompetensi & apresiasi mahasiswa dalam program PBL Polinema | Laravel, PHP, MySQL, Blade, Bootstrap |
 | [Mobile_Ghetsa-Ramadhani_2025](https://github.com/Ghetsa/Mobile_Ghetsa-Ramadhani_2025) | Mobile app experiments and Flutter learning projects | Flutter |
 | [ML_Ghetsa-Ramadhani_2025](https://github.com/Ghetsa/ML_Ghetsa-Ramadhani_2025) | Machine learning experiments and model training notebooks | Python, Scikit-learn |
 
@@ -45,7 +45,7 @@
 ---
 
 ## 🌟 Goals for 2025
-- 📱 Build and publish 2+ mobile applications using Flutter  
+- 📱 Build a mobile applications using Flutter  
 - 🌐 Develop a full-stack web app with Laravel  
 - 💬 Collaborate on open-source projects and improve teamwork skills  
 - 🪴 Continue growing as a developer and community contributor  
