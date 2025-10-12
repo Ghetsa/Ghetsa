@@ -31,7 +31,7 @@
 ## 📂 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [PM_Ghetsa-Ramadhani_2025](https://github.com/Ghetsa/PM_Ghetsa-Ramadhani_2025) | A project management app prototype built with Flutter | Dart, Flutter |
+| [Mobile_Ghetsa-Ramadhani_2025](https://github.com/Ghetsa/Mobile_Ghetsa-Ramadhani_2025) | A project management app prototype built with Flutter | Dart, Flutter |
 | [Mobile_Ghetsa-Ramadhani_2025](https://github.com/Ghetsa/Mobile_Ghetsa-Ramadhani_2025) | Mobile app experiments and Flutter learning projects | Flutter |
 | [ML_Ghetsa-Ramadhani_2025](https://github.com/Ghetsa/ML_Ghetsa-Ramadhani_2025) | Machine learning experiments and model training notebooks | Python, Scikit-learn |
 
